@@ -12,3 +12,9 @@ print("git init")
 print("git add {filename}")
 #check status of git repository with
 print("git status")
+#do a commit message for the file
+print("""git commit -m"{Message you want to send}""")
+#find user name with
+print("git config --global user.name")
+#push final final with
+print("git push origin master")
